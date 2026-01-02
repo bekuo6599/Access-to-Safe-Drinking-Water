@@ -120,8 +120,6 @@ New features created include:
 * Water access distributions are skewed, not normal
 * Income group strongly correlates with water access quality
 
-```
-
 ---
 
 ## 🔗 Project Link
