@@ -124,10 +124,10 @@ New features created include:
 
 ---
 
-## 🔗 Project Links
+## 🔗 Project Link
 
-* 📊 Google Sheets Analysis: (https://docs.google.com/spreadsheets/d/1gMZdPneKTafdLTSTeTsTEyecWG3vwcT4GxuHJ34zlP0/edit?usp=sharing)
-* 📄 Full Report (Part 1): `report/Part_1_Report.md`
+(https://docs.google.com/spreadsheets/d/1gMZdPneKTafdLTSTeTsTEyecWG3vwcT4GxuHJ34zlP0/edit?usp=sharing)
+
 
 ---
 
